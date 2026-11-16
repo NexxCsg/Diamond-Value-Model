@@ -1,0 +1,19 @@
+
+# Python temporary files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated datasets
+*.csv
+
+# Generated Excel reports
+*.xlsx
+
+# Temporary files
+*.log
+*.tmp
+
+# Local settings
+.env
